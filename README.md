@@ -1,4 +1,4 @@
-Alokic
+POC
 ======
 
-Alokic Repo
+POC Repo
